@@ -5,3 +5,4 @@
     provided from the simple_goto.py and add new features such that our drone vehicle 
     will fly from one waypoint to another waypoint repetitively before the baterry drains 
     below 10% of its maximum capacity. 
+  - [![Flight Demo Video](Drone_Project/FlightDemoPic.PNG)](https://youtu.be/j8sVi8_IlK0)
